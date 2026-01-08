@@ -1,38 +1,55 @@
-# Hi there! 👋
+# 👋 Hi, I'm TK! [Aspiring Full Stack Dev 🚀]
 
-I'm TK, a Full Stack Developer in the making. Currently following the [Full Stack Roadmap](https://roadmap.sh/full-stack) to build my skills from HTML/CSS to advanced backend and DevOps.
+Hey there! I'm TK, a passionate learner diving into the world of Full Stack Development. Following the [Full Stack Roadmap](https://roadmap.sh/full-stack), I'm building skills from HTML/CSS basics to advanced backend and DevOps. This is my digital hangar for notes, projects, and everything in between.
 
-## 🚀 What I'm Working On
+## 🌐 Find Me Around the Web
 
-- **FullStack Progress**: My learning repo with notes, projects, and templates — [Check it out](https://github.com/MrScr1pt/FullStack-Progress)
-- Learning: HTML, CSS, JavaScript, React, Node.js, Databases, and more
-- Building projects to apply concepts hands-on
+- **YouTube**: [Your Channel](https://youtube.com/@yourhandle) (Coming soon with tutorials!)
+- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
+- **Discord**: Join my server for coding chats — [Invite Link](https://discord.gg/yourinvite)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrScr1pt&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrScr1pt&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-## 🛠️ Tech Stack
+## 🏆 Achievements & Badges
+
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=MrScr1pt&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+## 🔧 Tech Stack & Tools
 
 - **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Node.js, Express
+- **Backend**: Node.js, Express, GraphQL
 - **Databases**: MongoDB, PostgreSQL
-- **Tools**: Git, Docker, VS Code
+- **DevOps**: Docker, Kubernetes, CI/CD
+- **Tools**: Git, VS Code, Postman
 
-## 📈 Learning Progress
+## 📈 Learning Journey
 
 - [x] HTML & CSS Basics
 - [ ] JavaScript Fundamentals
-- [ ] React
-- [ ] Node.js & APIs
-- [ ] Databases
+- [ ] React & Frontend Frameworks
+- [ ] Node.js & Backend APIs
+- [ ] Databases & Data Management
 - [ ] DevOps & Deployment
 
-## 📫 Connect
+## 📂 Featured Projects
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile) (update this)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle) (update this)
+- [**FullStack Progress**](https://github.com/MrScr1pt/FullStack-Progress) — My learning repo with notes and projects
+- More coming as I build!
+
+## ❓ FAQ
+
+- **What's your goal?** To become a proficient Full Stack Developer and share my journey.
+- **How can I follow your progress?** Check this profile and my repos for updates!
+- **Want to collaborate?** Reach out via Discord or LinkedIn.
+
+## ⚠️ Important Notes
+
+- I'm still learning, so expect some beginner-level content initially.
+- Open to feedback and suggestions — let's grow together!
 
 ---
 
-*This profile is a work in progress — check back for updates!*
+*Thanks for stopping by! 🌟*
