@@ -4,10 +4,14 @@ Hey there! I'm TK, a passionate learner diving into the world of Full Stack Deve
 
 ## 🌐 Find Me Around the Web
 
-- **YouTube**: [Your Channel](https://youtube.com/@yourhandle) (Coming soon with tutorials!)
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
-- **Discord**: Join my server for coding chats — [Invite Link](https://discord.gg/yourinvite)
+| Platform | Link |
+|----------|------|
+| **YouTube** | [Your Channel](https://youtube.com/@yourhandle) (Coming soon with tutorials!) |
+| **Twitter** | [@yourhandle](https://twitter.com/yourhandle) |
+| **LinkedIn** | [Your Profile](https://linkedin.com/in/yourprofile) |
+| **Discord** | Join my server for coding chats — [Invite Link](https://discord.gg/yourinvite) |
+
+---
 
 ## � GitHub Streak
 
