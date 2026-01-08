@@ -1,4 +1,4 @@
-# I''m TK  A Deckhand learning full-stack development
+# I'm TK  A Deckhand learning full-stack development
 
 Im TK, learning full-stack web development while working as a deckhand.
 My background in hands-on, real-world work shapes how I approach code: practical, detail-oriented, and focused on solving real problems.
