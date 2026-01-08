@@ -22,7 +22,7 @@ Working on JavaScript fundamentals and building small web applications.
 ## Projects
 
 - [FullStack Progress](https://github.com/TKylmz/FullStack-Progress)  Repository for notes, projects, and templates as I learn.
-- [TKLocalAI](https://github.com/TKylmz/TKLocalAI)  Local AI tools and experiments.
+- [TKLocalAI](https://github.com/TKylmz/TKLocalAI)  Local AI Assistant with GPU acceleration, RAG, and LoRA fine-tuning. Fully private, runs on your hardware.
 
 ## Stats
 
