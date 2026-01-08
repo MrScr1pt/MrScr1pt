@@ -1,59 +1,33 @@
-# 👋 Hi, I'm TK! [Aspiring Full Stack Dev 🚀]
+# TK
 
-Hey there! I'm TK, a passionate learner diving into the world of Full Stack Development. Following the [Full Stack Roadmap](https://roadmap.sh/full-stack), I'm building skills from HTML/CSS basics to advanced backend and DevOps. This is my digital hangar for notes, projects, and everything in between.
+I am learning full stack development following the [roadmap.sh](https://roadmap.sh/full-stack) guide. This profile documents my progress through projects and notes.
 
-## 🌐 Find Me Around the Web
+## Using
 
-| Platform | Link |
-|----------|------|
-| **YouTube** | [Your Channel](https://youtube.com/@yourhandle) (Coming soon with tutorials!) |
-| **Twitter** | [@yourhandle](https://twitter.com/yourhandle) |
-| **LinkedIn** | [Your Profile](https://linkedin.com/in/yourprofile) |
-| **Discord** | Join my server for coding chats — [Invite Link](https://discord.gg/yourinvite) |
+- HTML, CSS, JavaScript
+- Git, VS Code
 
----
+## Learning
 
-## � GitHub Streak
+- React, Node.js, Express
+- MongoDB, PostgreSQL
+- Docker
+
+## Current Focus
+
+Working on JavaScript fundamentals and building small web applications.
+
+## Projects
+
+- [FullStack Progress](https://github.com/MrScr1pt/FullStack-Progress)  Repository for notes, projects, and templates as I learn.
+
+## Contact
+
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourhandle)
+
+## Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrScr1pt&theme=dark)
 
-## 👀 Profile Views
-
 ![Profile Views](https://komarev.com/ghpvc/?username=MrScr1pt&color=blue&style=flat)
-
-## 🔧 Tech Stack & Tools
-
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Node.js, Express, GraphQL
-- **Databases**: MongoDB, PostgreSQL
-- **DevOps**: Docker, Kubernetes, CI/CD
-- **Tools**: Git, VS Code, Postman
-
-## 📈 Learning Journey
-
-- [x] HTML & CSS Basics
-- [ ] JavaScript Fundamentals
-- [ ] React & Frontend Frameworks
-- [ ] Node.js & Backend APIs
-- [ ] Databases & Data Management
-- [ ] DevOps & Deployment
-
-## 📂 Featured Projects
-
-- [**FullStack Progress**](https://github.com/MrScr1pt/FullStack-Progress) — My learning repo with notes and projects
-- More coming as I build!
-
-## ❓ FAQ
-
-- **What's your goal?** To become a proficient Full Stack Developer and share my journey.
-- **How can I follow your progress?** Check this profile and my repos for updates!
-- **Want to collaborate?** Reach out via Discord or LinkedIn.
-
-## ⚠️ Important Notes
-
-- I'm still learning, so expect some beginner-level content initially.
-- Open to feedback and suggestions — let's grow together!
-
----
-
-*Thanks for stopping by! 🌟*
